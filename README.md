@@ -1,27 +1,22 @@
-Calculadora Simples
+<h1>Calculadora simples</h1>
 
-Este é um projeto simples de uma calculadora desenvolvida com HTML, CSS e JavaScript.
+<h2>Tecnologias Utilizadas</h2>
+<ul>
+    <li><strong>HTML</strong>: Estrutura da página</li>
+    <li><strong>CSS</strong>: Estilização dos elementos</li>
+    <li><strong>JavaScript</strong>: Funcionalidade da calculadora</li>
+</ul>
 
-Tecnologias Utilizadas
+<h2>Funcionalidades</h2>
+<ul>
+    <li>Operações matemáticas básicas (+, -, *, /)</li>
+    <li>Entrada de números e operadores através de botões</li>
+    <li>Botão para limpar a tela</li>
+    <li>Exibição do resultado ao pressionar "="</li>
+</ul>
 
-HTML: Estrutura da página
-
-CSS: Estilização dos elementos
-
-JavaScript: Funcionalidade da calculadora
-
-Funcionalidades
-
-Operações matemáticas básicas (+, -, *, /)
-
-Entrada de números e operadores através de botões
-
-Botão para limpar a tela
-
-Exibição do resultado ao pressionar "="
-
-Como Executar o Projeto
-
-Baixe ou clone este repositório
-
-Abra o arquivo index.html em qualquer navegador moderno
+<h2>Como Executar o Projeto</h2>
+<ol>
+    <li>Baixe ou clone este repositório</li>
+    <li>Abra o arquivo <code>index.html</code> em qualquer navegador moderno</li>
+</ol>
